@@ -1,0 +1,12 @@
+vmname = ""
+startaction = false
+stopaction = false
+adddisk = false
+disksize = 0
+diskcount = 0
+chgsize = false
+diskprefix = "data"
+vmsize = ""
+existingdiskcount = 0
+resourcegroupname = ""
+resourcegrouplocation = ""
